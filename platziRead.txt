@@ -3,6 +3,7 @@ Este es un Header
 La historia de Paul es en NoCountry
 
 Ahora el es el CEO de Sony
+
 Un orgullo estar en sus cursss
 
 El Lunes iniciare un nuevo proyecto con mis amigos que trabajan conmigo
@@ -12,7 +13,7 @@ Siempre ha sido un verdadero placer poder compartir todo el conocimiento que se 
 
 Esto no se eliminara
 
-Agrego otra linea 122222
+Agrego otra linea 12
 
 Ahora yo quiero crear un conflicto en linea 12
 
